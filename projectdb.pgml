@@ -1,0 +1,26 @@
+<project>
+    <documents></documents>
+    <classstyles>
+        <classstyle name="H1" key="h1" class="text-6xl tracking-wide" count="0"></classstyle>
+        <classstyle name="Header" key="header" class="fixed flex flex-wrap items-center justify-center w-full" count="0"></classstyle>
+        <classstyle name="Container" key="container" class="flex flex-wrap items-center justify-center px-4" count="0">
+            <classstyle name="Footer cont" key="container.footer_cont" class=" py-16 px-8 container"></classstyle>
+        </classstyle>
+        <classstyle name="Paragraph" key="paragraph" class="font-normal uppercase text-xl my-4 text-white"></classstyle>
+        <classstyle name="Button" key="button" class="w-full lg:min-w-0 lg:w-auto my-2 lg:my-1 text-white py-2 px-8 border rounded-full tracking-wider uppercase bg-green-700 hover:text-green-900 hover:bg-green-200">
+            <classstyle name="Location" key="button.location" class=" my-2 ml-auto flex uppercase w-11/12 font-extrabold text-green-700 bg-green-100 text-lg hover:bg-green-700 hover:text-white items-center flex-row justify-center flex-no-wrap border-4 py-2 px-1"></classstyle>
+        </classstyle>
+        <classstyle name="Row" key="row" class="flex flex-col flex-wrap items-center justify-center container lg:flex-wrap lg:items-center lg:flex-row"></classstyle>
+        <classstyle name="Column Info" key="column_info" class="text-center lg:text-left lg:px-4 lg:w-6/12">
+            <classstyle name="Contact zone" key="column_info.contact_zone" class=" lg:flex lg:flex-wrap lg:items-center lg:justify-end"></classstyle>
+        </classstyle>
+        <classstyle name="Column Image" key="column_image" class="flex-wrap items-center lg:w-6/12"></classstyle>
+        <classstyle name="H2" key="h2" class=" text-4xl uppercase text-white">
+            <classstyle name="Sizw" key="h2.sizw" class=" font-black lg:text-6xl text-4xl"></classstyle>
+        </classstyle>
+        <classstyle name="Client Logos" key="client_logos" class="p-2 w-4/12 lg:w-2/12"></classstyle>
+        <classstyle name="Footer Links" key="footer_links" class="text-base font-light mx-2 lg:mx-4 hover:text-green-600 hover:font-black"></classstyle>
+        <classstyle name="Nav Links" key="nav_links" class="text-lg uppercase hover:text-green-800 hover:font-black hover:tracking-widest tracking-normal font-normal"></classstyle>
+        <classstyle name="Body" key="body" class="flex flex-wrap justify-center"></classstyle>
+    </classstyles>
+</project>
